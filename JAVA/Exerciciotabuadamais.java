@@ -6,13 +6,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 
 
-public class Exerciciotabuadamais
-
-{
+public class Exerciciotabuadamais {
     
     public static void main(String args[]) {
-
-       
 
         int A;
         do {

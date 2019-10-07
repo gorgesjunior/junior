@@ -10,6 +10,7 @@ public class exemplo
 
             int num1;
             int num2;
+            
          do{  
             
 
