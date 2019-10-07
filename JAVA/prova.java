@@ -6,7 +6,7 @@ import java.io.FileWriter;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class ArquivoDeTexto {
+public class prova {
     
     public static void main(String[] args) {
         try{
