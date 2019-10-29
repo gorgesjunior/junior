@@ -74,7 +74,7 @@ public class Filme {
 
             //String Opcao = null;
 
-            switch (Opcao) {
+            switch (" ") {
             case "s":
             case "S":
                 System.out.println("DIGITE O CPF DO CLIENTE: ");
